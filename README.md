@@ -1,4 +1,6 @@
-Merhaba, Ben Alper Kaya. Bu evcil hayvan sitesi projesini kendimi frontend alanında geliştirmek amacıyla oluşturdum. Projeyi HTML, CSS ve Bootstrap kullanarak geliştirdim. Site; sade, modern ve responsive bir tasarıma sahiptir. Evcil hayvanlarla ilgili içerikleri düzenli ve kullanıcı dostu bir arayüz ile sunmaktadır. Bu proje sayesinde layout tasarımı, responsive yapı oluşturma ve temel web geliştirme konularında kendimi daha da geliştirme fırsatı buldum.
+Merhaba, 
+Ben Alper Kaya. Bu evcil hayvan sitesi projesini kendimi frontend alanında geliştirmek amacıyla oluşturdum. Projeyi HTML, CSS ve Bootstrap kullanarak geliştirdim. 
+Site; sade, modern ve responsive bir tasarıma sahiptir. Evcil hayvanlarla ilgili içerikleri düzenli ve kullanıcı dostu bir arayüz ile sunmaktadır. Bu proje sayesinde layout tasarımı, responsive yapı oluşturma ve temel web geliştirme konularında kendimi daha da geliştirme fırsatı buldum.
 
 Hello,
 
